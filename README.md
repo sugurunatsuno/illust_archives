@@ -1,7 +1,17 @@
-## 20210103
+La arkivo de mia praktoj kaj pecoj 
 
-![praktamanoj](praktamanoj.png)
+## 2020
 
-## 20201231
+[2020](2020.md)
 
-![イラスト30](イラスト30.png)
+## 2021
+
+[01](202101.md)
+
+
+
+
+
+------
+
+rugxo
